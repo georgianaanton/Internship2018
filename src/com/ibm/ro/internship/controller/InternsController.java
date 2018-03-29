@@ -15,7 +15,7 @@ public class InternsController {
 		
 		StringBuilder str = new StringBuilder();
 		str.append("Interns names are:");
-		str.append("Georgiana Anton");
+		str.append("Replace with namexxx");
 
         return str.toString();
     }
